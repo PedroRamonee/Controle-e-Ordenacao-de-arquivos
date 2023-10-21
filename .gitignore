@@ -1,0 +1,6 @@
+.vscode
+/SFML
+
+*.o
+*.dll
+*.exe
